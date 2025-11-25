@@ -6,10 +6,7 @@ Control your system's volume **with hand gestures** using computer vision and au
 
 This project uses a webcam to detect your hand and adjusts the system volume based on the **distance between your thumb and index finger**. It provides a cool and touchless way to control volume — just like magic!
 
-## 📷 Demo
 
-> 🖼️ *(Optional: Add a screenshot or video of your project running here)*  
-> ![Gesture Volume Control Demo](demo.gif)
 
 ## 🛠️ Tech Stack
 
